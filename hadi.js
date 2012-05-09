@@ -1,1 +1,2 @@
 alert("halo");
+coba();
